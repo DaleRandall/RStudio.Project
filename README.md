@@ -12,4 +12,4 @@ Next, I imported the CSV file into Power BI and created a visual dashboard.
 
 ![2023-04-06 (1)](https://user-images.githubusercontent.com/126267763/231778557-bb8e0bd2-2491-46ff-8754-b0cfee2b5fee.png)
 
-My Power BI presentation https://app.powerbi.com/links/SgHrazxoDb?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
+[Link to the dashboard](https://app.powerbi.com/links/SgHrazxoDb?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
