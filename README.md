@@ -1,4 +1,4 @@
-Cleaning Data and Removing Duplicates in R Studio and Visualizing it in Power BI
+# Cleaning Data and Removing Duplicates in R Studio and Visualizing it in Power BI
 
 I began by importing the raw data into R Studio. The dataset contained information on hollywood movies, including various columns such as Genre, movies produced, rotton tomatoes rating and customer rating.
 
